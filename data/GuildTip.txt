@@ -1,61 +1,61 @@
 #
-[ Guild Creation ]
- 1. Guild must have in possession a Emperium. 
- (One must obtain an Emperium from Quest/Monsters.)
+[ Criação de Clã ]
+ 1. Precisa ter em sua posse um Emperium para criar um clã. 
+ (Pode ser obtido por Quest/Monstros.)
  
- 2. Ways to Create a Guild: 
+ 2. Maneiras de criar um Clã: 
  /guild (guild) 
- 'Make Guild Button [Alt+G].
+ 'Pressione o atalho de Clã [Alt+G].
  
- 3. ALT+G: Guild Information Called.
-#
- 
-[ Guild Information Window ] 
-#
- 1. Guild, Experience, Guild Level, Guild Emblem,
-  Master Name, Enemies, Points, Average Member
-  Level, Alliance, Hostile Guilds can be found.
+ 3. ALT+G: Abre a janela de informações do clã.
 #
  
- 2. Membership Information : 
-  Guild members to look for individual information and
-  being able to withdraw from one's guild. Guild must remove
-  all members if the guild master wishes to disband the guild.
+[ Janela de informação do Clã ] 
+#
+ 1. Nome do Clã, Experiência, Nível do Clã, Emblema,
+  Líder do Clã, Inimigos, Pontos, Nível médio dos
+  membros, Alianças, Territórios, Tendências.
 #
  
- 3. Set Position : 
- Taxing members up to 50%
+ 2. Informações dos Membros : 
+  Contém as informações dos membros do clã e a
+  possibilidade de retira-los do mesmo. Deve-se remover
+  todos os membros, se o líder do clã pretende desfazê-lo.
 #
  
- 4. Guild Skill : 
- When a Guild levels up, the guild master
- can use points to advance guild skills by
- investing in them once they are available.
+ 3. Posição : 
+ Taxa máxima de doação é de 50%
 #
  
- 5. Outcast : 
- Guild's exile list
- Also includes reason of banishment...
+ 4. Habilidades do Clã : 
+ Quando o Clã aumenta de nível, o líder pode usar
+ os pontos para atribuir nas habilidades e investir
+ nelas, uma vez que as mesmas estejam disponíveis.
 #
  
- 6. Guild Master Announcements
- Members can be notified.
+ 5. Histórico : 
+ Lista de expulsos do clã
+ Também está incluso a razão da exclusão...
 #
  
-[ Registration and Emblems ]
-#
- 1) 24x24 pixel of 256-color bitmap (BMP)
- To Create Emblems.
+ 6. Aviso do Clã
+ Notificação para os membros ao entrarem no jogo.
 #
  
- 2) Install emblems in the "Emblem" folder 
- Where Ragnarok Online is installed.
+[ Emblema ]
+#
+ 1) 24x24 pixel de 256-color bitmap (BMP)
+ Formato da imagem para criar Emblemas.
 #
  
- 3) Information Window Emblem
- Click "Edit" to change guild emblem.
+ 2) Copie o arquivo do emblema para a pasta "Emblem" 
+ na pasta onde o seu Ragnarok Online foi instalado.
 #
  
- 4) Emblem can only be changed by the 
- Guild Master at anytime.
-#		
+ 3) Janela de informação de Emblema
+ Clique "Editar" para mudar o emblema do clã.
+#
+ 
+ 4) O Emblema do clã só pode ser 
+ modificado pelo líder.
+#
