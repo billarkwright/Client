@@ -2353,17 +2353,17 @@ Macro#
 Webbrowser#
 Navegação#
 UAEURL#
-Informação de Clã#
-Nível do Clã#
-Nome do Clã#
-Marca do Clã#
+Informação#
+Nível#
+Nome#
+Emblema#
 Aliança#
-Clã Antagonista#
-Enviar para o Clã#
+Antagonista#
+Enviar#
 Nome do Líder#
 Número de Membros#
 Castelos Conquistados#
-Mensagens do Clã#
+Mensagens#
 Ir para página.#
 https://www.arkwright.com/#
 Criar personagem#
@@ -2382,8 +2382,8 @@ Vending is prohibited in this Map#
 In this Map,Effect of Mirace of Sun and Moon is nullified.#
 Ranking Board#
 Rank#
-Name#
-Points#
+Nome#
+Pontos#
 BlackSmith#
 Alchemist#
 Taekwon#
@@ -2562,7 +2562,7 @@ Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
 [Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
 Cannot use skill in this map.#
-If you are using a guild warehouse warehouse all items will disappear.#
+Se você estiver usando o armazém do clã, todos os itens vão desaparecer.#
 http://ragnarok.gamesamba.com/paytest.html#
 Porfavor, insira a senha para logar.#
 Pet Evolution#
