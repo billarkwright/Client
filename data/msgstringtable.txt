@@ -2126,7 +2126,7 @@ Quando a batalha terminar seu personagem será devolvido para o local atual ou (
 Pedido de ajuda posição de batalha#
 %s a batalha começou.#
 Você quer entrar na arena?#
-[Notaar]#
+[Nota]#
 Quando a batalha terminar seu personagem#
 será devolvido para o local atual ou (se não for#
 possível) para o ponto de retorno.#
