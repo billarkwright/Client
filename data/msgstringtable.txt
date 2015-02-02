@@ -2126,7 +2126,7 @@ Quando a batalha terminar seu personagem será devolvido para o local atual ou (
 Pedido de ajuda posição de batalha#
 %s a batalha começou.#
 Você quer entrar na arena?#
-[Note]#
+[Notaar]#
 Quando a batalha terminar seu personagem#
 será devolvido para o local atual ou (se não for#
 possível) para o ponto de retorno.#
@@ -2165,7 +2165,7 @@ Livro de Movimento#
 Mudar#
 Trocar Nome#
 Criar personagem#
-http://arkwright.com/#
+http://ragnarok.com.br/#
 (%s) Servidor#
 Combinação de Item#
 Dois ou mais do mesmo tipo. Por favor, selecione o item.#
@@ -2408,7 +2408,7 @@ Selecione o tipo do Ranking#
 Tipo do Ranking#
 Atualmente, o servidor está cheio.           ^0000ffPessoas atualmente esperando : %d                    Tempo de espera estimado : %dSegundos#
 Atualmente, o servidor está cheio.           ^0000ffPessoas atualmente esperando : %d                    Tempo de espera estimado : %dMinutos %d Segundos#
-CBT não é um usuário convidado#
+Não é um usuário convidado para o CBT#
 ------------------- Instruções --------------------#
 1) /navigation ou /navi ex) /navi prontera 100 100 -> /navi MAPA, 100, 100#
 2) /navigation2 ou /navi2 ex) /navi2 prontera 100 111 -> MAPA localização (100 90), Scroll | Zeny | Avião (1: Ativado ou 0: Desativado)#
@@ -2648,43 +2648,43 @@ Achievable challenge#
 Achieve overall#
 Achieve rank#
 The following compensation box until [% 5d] point#
-Progress#
-Recent Achievements#
+Progresso#
+Conquistas Recentes#
 à¹ø¯  Item#
 à¹ø¯  : %d / %d #
 à¹ø¯  is low.#
 %s#
 Overview#
-General#
-Character#
-Action#
-Other#
-Adventure#
-Rune Midgarts#
+Geral#
+Personagem#
+Ação#
+Outros#
+Aventura#
+Rune Midgards#
 Schwartzvald#
 Arunafeltz#
 Commandment#
-Localizing#
-Dungeon#
-Battle#
-Duel#
+Localização#
+Calabouço#
+Batalha#
+Duelo#
 Lily#
 Quest#
-Episode#
-General#
+Episódio#
+Geral#
 Memorial#
 Midgard#
 Commandment#
-Other#
+Outros#
 Feat#
 Achieved challenge#
 You cannot add anymore.#
-< %S > achieved.#
+< %S > conquistado.#
 only otp user login allow#
 Quando este botão é pressionado, você receberá o item da roleta especificado.#
 Quando este botão é pressionado, as setas intermitentes a partir das linhas da roleta irão começar.#
-Title#
-Title release#
+Título#
+Lançamento de Título#
 Can't create a Guild in this area.#
 Can't disband a Guild in this area.#
 Can't join a Guild in this area.#
@@ -2692,16 +2692,16 @@ Can't leave a Guild in this area.#
 Can't deport a Guild in this area.#
 Can't change a Guild title in this area#
 Please empty at least 5 amount of possession in item window.#
-EXP   : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
-DROP  : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
-DEATH : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
+EXP   : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
+DROP  : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
+MORTE : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
 The number of items that can be attached is exceeded.#
 Notify when item purchased#
 Unable to attach the items.#
 Because you can not win a slam room and turn the roulette of the next higher step.#
-Replying#
-Read more#
-Delete message#
+Responder#
+Ler mais#
+Deletar mensagem#
 à¹ø¯  : %d#
 %s %s à¹ø¯ #
 à¹ø¯ #
@@ -2726,8 +2726,8 @@ Total : %s à¹ø¯#
 %s %s à¹ø¯ %d °³#
 %s %d°³¸¦ %d à¹ø¯¿¡ ÆÇ¸Å ÇÏ¿´½À´Ï´Ù. ¼ö¼ö·á´Â 3%% ÀÔ´Ï´Ù.#
 RODEX#
-SEND#
-RECEIVE#
+ENVIAR#
+RECEBER#
 Please close the mail compose window.#
-Server access denied(A)#
-Server access denied(B)#
+Acesso ao servidor negado(A)#
+Acesso ao servidor negado(B)#
