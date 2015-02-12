@@ -2677,27 +2677,27 @@ Midgard#
 Commandment#
 Outros#
 Feat#
-Achieved challenge#
-You cannot add anymore.#
+Desafio alcançado#
+Você não pode adicionar mais.#
 < %S > conquistado.#
-only otp user login allow#
+somente é permitido o login de usuários otp#
 Quando este botão é pressionado, você receberá o item da roleta especificado.#
 Quando este botão é pressionado, as setas intermitentes a partir das linhas da roleta irão começar.#
 Título#
 Lançamento de Título#
-Can't create a Guild in this area.#
-Can't disband a Guild in this area.#
-Can't join a Guild in this area.#
-Can't leave a Guild in this area.#
-Can't deport a Guild in this area.#
-Can't change a Guild title in this area#
-Please empty at least 5 amount of possession in item window.#
+Não é possível criar uma Guild nesta área.#
+Não é possível dissolver a Guild nesta área.#
+Não é possível participar de uma Guild nesta área.#
+Não é possível deixar uma Guild nesta área.#
+Não é possível expulsar uma Guild nesta área.#
+Não é possível alterar o título da Guild nesta área#
+Por favor esvaziar pelo menos 5 espaços na janela item.#
 EXP   : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
 DROP  : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
 MORTE : %.1f%% ( base 100.0%% pccafe %.1f%% + %s %.1f%% )#
-The number of items that can be attached is exceeded.#
-Notify when item purchased#
-Unable to attach the items.#
+O número de itens que podem ser anexados foi excedido.#
+Notificar quando item for comprado#
+Não é possível anexar os itens.#
 Because you can not win a slam room and turn the roulette of the next higher step.#
 Responder#
 Ler mais#
@@ -2728,36 +2728,36 @@ Total : %s à¹ø¯#
 RODEX#
 ENVIAR#
 RECEBER#
-Please close the mail compose window.#
+Por favor, feche a janela de correio.#
 Acesso ao servidor negado(A)#
 Acesso ao servidor negado(B)#
-Unequipped Arrow/Ammunition.#
-Consuming item in inventory will close mail compose window.#
-Do not have Magnifier.#
-Close email window if you want to discard item.#
+Flecha/Munição desequipada.#
+Consumir itens do inventário com a janela de correio abreta, irá fechar a mesma.#
+Você não tem lupa.#
+Feche a janela de e-mail, se você deseja descartar o item.#
 ??????A?[?J?n???.#
 SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
-^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
-Shutdown#
-Task#
-View task icon#
-Amenities#
-View Amenities icon#
-Public members/players#
-Public members/players mark#
-Record#
-Boss Monster#
-I#
-Are you sure want to delete it?#
-Task NPC#
-Record content#
-Store#
-Record#
-%s [%d Property] %d ea#
-%s [%d Property] %s Zeny#
-%s [%d Property] %d %s %d -> %s %s#
-%s [%d Property] %d %s %s %s#
-%s [%d Property] %d -> %s %s#
-%s [%d Property] %s %s#
-The minimum trading unit must be 100 crackers or more.#
+^ff0000Tem certeza que querer comprar o produto? Após a confirmação vai consumir %d pontos e %d biscoitos.#
+Desligar#
+Tarefas#
+Ver ícone de tarefas#
+Comodidades#
+Exibir ícone de comodidades#
+Membros públicos/jogadores#
+Membros públicos/jogadores marcados#
+Registro#
+Mostro Chefe#
+Eu#
+Tem certeza que deseja excluí-lo?#
+Tarefa do NPC#
+Conteúdo Registrado#
+Loja#
+Registro#
+%s [%d Propriedade] %d und#
+%s [%d Propriedade] %s Zeny#
+%s [%d Propriedade] %d %s %d -> %s %s#
+%s [%d Propriedade] %d %s %s %s#
+%s [%d Propriedade] %d -> %s %s#
+%s [%d Propriedade] %s %s#
+A unidade de mínima de negociação deve ser de 100 biscoitos ou mais.#
