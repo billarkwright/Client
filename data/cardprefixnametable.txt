@@ -633,3 +633,15 @@
 4630#of Timekeeper#
 4631#Volant#
 4632#Current#
+
+// January 2015 Episode 16.1
+4446#Sharpen#
+4633#Queen Bird#
+4634#Fatal#
+4635#Tight#
+4636#Temporal#
+4637#of Drain#
+4638#Plaid#
+4639#Martial#
+4640#Noetic#
+4641#Of Soul Gathering#

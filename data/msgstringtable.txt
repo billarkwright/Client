@@ -2731,3 +2731,33 @@ RECEBER#
 Please close the mail compose window.#
 Acesso ao servidor negado(A)#
 Acesso ao servidor negado(B)#
+Unequipped Arrow/Ammunition.#
+Consuming item in inventory will close mail compose window.#
+Do not have Magnifier.#
+Close email window if you want to discard item.#
+??????A?[?J?n???.#
+SCRIPT ERROR AID#
+\nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
+^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
+Shutdown#
+Task#
+View task icon#
+Amenities#
+View Amenities icon#
+Public members/players#
+Public members/players mark#
+Record#
+Boss Monster#
+I#
+Are you sure want to delete it?#
+Task NPC#
+Record content#
+Store#
+Record#
+%s [%d Property] %d ea#
+%s [%d Property] %s Zeny#
+%s [%d Property] %d %s %d -> %s %s#
+%s [%d Property] %d %s %s %s#
+%s [%d Property] %d -> %s %s#
+%s [%d Property] %s %s#
+The minimum trading unit must be 100 crackers or more.#
