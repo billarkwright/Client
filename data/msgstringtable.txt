@@ -2732,7 +2732,7 @@ Por favor, feche a janela de correio.#
 Acesso ao servidor negado(A)#
 Acesso ao servidor negado(B)#
 Flecha/Munição desequipada.#
-Consumir itens do inventário com a janela de correio abreta, irá fechar a mesma.#
+Consumir itens do inventário com a janela de correio aberta, irá fechar a mesma.#
 Você não tem lupa.#
 Feche a janela de e-mail, se você deseja descartar o item.#
 ??????A?[?J?n???.#
