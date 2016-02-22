@@ -244,7 +244,10 @@ function GetSkillAttackRange(in_SKID, in_Level, in_curMaxLv)
   if maxLv ~= nil and in_curMaxLv > maxLv then
     in_curMaxLv = maxLv
   end
-  attackRangeOfMaxLv = SKILL_INFO_LIST[in_SKID].AttackRange[in_curMaxLv]
+  obj = SKILL_INFO_LIST[in_SKID]
+  if (obj ~= nil and obj.AttackRange ~= nil) then
+    attackRangeOfMaxLv = SKILL_INFO_LIST[in_SKID].AttackRange[in_curMaxLv]
+  end
   if attackRangeOfMaxLv == nil then
     attackRangeOfMaxLv = 0
   end

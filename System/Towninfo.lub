@@ -131,7 +131,7 @@ mapNPCInfoTable = {
       TYPE = 4
     },
     {
-      name = "상점",
+      name = "Loja",
       X = 112,
       Y = 179,
       TYPE = 0
@@ -1339,7 +1339,7 @@ mapNPCInfoTable = {
       TYPE = 4
     },
     {
-      name = "상점",
+      name = "Loja",
       X = 112,
       Y = 179,
       TYPE = 0
@@ -1377,7 +1377,7 @@ mapNPCInfoTable = {
       TYPE = 4
     },
     {
-      name = "상점",
+      name = "Loja",
       X = 112,
       Y = 179,
       TYPE = 0
@@ -1415,7 +1415,7 @@ mapNPCInfoTable = {
       TYPE = 4
     },
     {
-      name = "상점",
+      name = "Loja",
       X = 112,
       Y = 179,
       TYPE = 0

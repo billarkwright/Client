@@ -1,24 +1,24 @@
 World_List = {
   {
-    "Rune-Midgard",
+    "Midgard",
     "worldtable_main",
     "worldtable_main_Dun",
     "worldmap.bmp"
   },
   {
-    "Outra Dimensão",
+    "Dimension",
     "worldtable_dimensions",
     "worldtable_dimensions_Dun",
     "worldmap_dimension.bmp"
   },
   {
-    "Localização 01",
+    "localizing 01",
     "worldtable_localizing1",
     "worldtable_localizing1_Dun",
     "worldmap_localizing1.bmp"
   },
   {
-    "Localização 02",
+    "localizing 02",
     "worldtable_localizing2",
     "worldtable_localizing2_Dun",
     "worldmap_localizing2.bmp"

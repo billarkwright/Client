@@ -47,6 +47,6 @@ OptionInfoList = {
   Outdoor_ViewDistance = 400,
   Indoor_ViewLatitude = -45,
   Indoor_ViewDistance = 300,
-  SkinName = "<Basic Skin>",
+  SkinName = "<Skin Basica>",
   MouseExclusive = 1
 }
