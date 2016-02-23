@@ -4152,7 +4152,6 @@ SKILL_DESCRIPT = {
     "[Nv 5]: ^777777Dano Adicional +100^000000"
   },
   [SKID.LK_PARRYING] = {
-    " ",
     "Aparar Golpe",
     "N\237vel M\225ximo: 10",
     "^777777Pr\233 requisitos: Provocar 5,",
@@ -4162,6 +4161,7 @@ SKILL_DESCRIPT = {
     "Requer uma espada de duas m\227os.^000000",
     "[Nv 1]: ^777777Bloqueio +23%^000000",
     "[Nv 2]: ^777777Bloqueio +26%^000000",
+
     "[Nv 3]: ^777777Bloqueio +29%^000000",
     "[Nv 4]: ^777777Bloqueio +32%^000000",
     "[Nv 5]: ^777777Bloqueio +35%^000000",
