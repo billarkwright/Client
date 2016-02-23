@@ -1,4 +1,4 @@
-Você concorda?#
+﻿Você concorda?#
 Não foi possível conectar-se ao servidor.#
 Desconectado do servidor.#
 Desconectado do servidor.#
@@ -2486,82 +2486,82 @@ For thousands of years, a mysterious melody has mesmerized the guardian. After a
 When the melody reached its peak, a giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim. As a result, the two worlds were cut off from each other, causing a big problem for the people.#
 Now, the only way to get to Bifrost is through the Labyrinth Forest. Nobody knows how the forest came to exist, and nobody has ever come out of it alive...#
 Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion.#
-You can enter only numbers.#
+Você só pode digitar números.#
 Exchange or store window is active and can not register the withdrawal.#
-Go to#
+Ir para#
 Comparar item#
 Now you are trying to mount the gun equipped with bullet does not meet#
 Now you are trying to mount the guns and bullets will not fit mounted#
 Has not registered to sell the item. Please register to sell the item#
 ITEM#
-Guild storage is not available.#
+Aramazém da guilda não disponível.#
 Guild is not subscribed to. After signing up, please use #
-Two other guild members are in use. Please use it after a while.#
+Dois outros membros da guilda estão utilizando. Por favor, aguarde um pouco.#
 Usar armazém#
-Guild Storage#
-You do not have permission to use guild storage.#
+Armazém da Guilda#
+Você não tem permissão para usar o armazém da Guilda#
 Limited Sale Registration Window#
 Item DB Name#
 Item DB Number#
-Number of Sale#
-Sale Start Time#
-Time to sell#
-Please enter number you want to sell#
-Enter start time of sale#
+Número da venda#
+Horário de início da venda#
+Tempo para venda#
+Por favor digite o número que você deseja vender#
+Digite horário de início da venda#
 Start time does not match the scope of sales.#
-Please enter the time#
+Por favor digite o horário#
 Please enter the Item DB Name#
 Item ID lookup failed. Please try again later#
 >> ItemName : %s / Price : %dc / Quantity : %d / TimeOfSale : %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%Second#
-Registration successful#
-Registration failure. Please try again later.#
-Item has already been registered. Please try again later.#
-Failed to delete the item. Please try again later.#
-%s item has been deleted.#
+Registrado com sucesso#
+O registro falhou. Por favor tente novamente mais tarde.#
+O item ja foi registrado. Por favor tente novamente mais tarde.#
+Falha ao deletar o item. Por favor tente novamente mais tarde.#
+O item %s foi deletado.#
 Especial#
 Venda limitada, atualizar item# 
-Discontinued#
+Descontinuado#
 Quantity update is required #
-The %d is out of stock or to buy as much as#
-%s Items are on sale#
+O item %d está fora de estoque ou a quantia comprada é superior ao estoque#
+%s Itens estão à venda#
 %s time-out or sale of the items sold has been shut down due to the limited sales #
 /limitedsale#
 http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
-Item purchase successful#
-You do not have enough items.#
-Name of the character that cannot be invited.#
-You cannot invite the character to the guild.#
-Item already Sold,Purchase Failed..#
+Compra efetuada com sucesso#
+Você não tem itens suficientes.#
+Nome do personagem que não pode ser convidado.#
+Você não pode convidar o personagem para a guilda.#
+O item já foi vendido, a compra falhou..#
 Cannot save location as a Memo Point at current location.#
-Cannot purchase item, You exceeded the weight.#
+Compra falhou, você excedeu o peso.#
 No.#
 Item#
-Number#
-Name#
+Número#
+Nome#
 Time#
 Input/Output#
 Log does not exist.#
 Entire#
 Insert Symbol#
-Remaining Time#
+Tempo restante#
 Guild Storage Logs#
 100 entries are displayed.#
-Guild Storage is open only for 2 minutes, and will close automatically.#
+Armazém da guilda está aberto por somente 2 minutos e fechará automaticamente.#
 Incorrect GameSamba ID. Please Try Again.#
-%s [%d Option] : %d Quantity#
-Requires a Coin.#
-%d Coins are required.#
+%s [%d Option] : %d Quantidade#
+Requer uma moeda.#
+%d Medas são necessárias.#
 Gatling Gun should be equipped with bullets.#
-Shotguns should be equipped with bullets.#
-Rifle should be equipped with bullets.#
-Pair of Revolver should be equipped with bullets.#
+Shotguns devem ser equipadas com balas.#
+Rifle deve ser equipado com balas.#
+Par de Revólveres deve ser equipado com balas.#
 ¼º¼Ó¼º ºí¸´À» ÀåÂøÇØ¾ß ÇÕ´Ï´Ù#
-Item Sell History#
-Item Purchase History#
-Grenade Launcher should be equipped with bullets.#
-[Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
-Cannot use skill in this map.#
+Histórico de venda do item#
+Histórico de compra do item#
+Lançado de Granadas deve ser equipado com balas.#
+[Heat barrel],[Last Stand],[Platinum Alter] não podem ser equipados enquanto você estiver sentado.#
+Habilidades bloqueadas neste mapa.#
 Se você estiver usando o armazém do clã, todos os itens vão desaparecer.#
 http://ragnarok.gamesamba.com/paytest.html#
 Porfavor, insira a senha para logar.#
@@ -2569,7 +2569,7 @@ Pet Evolution#
 Evolution - %s#
 Evolution requires the following ingredients:#
 Are you sure you want to evolve?#
-Unknown Error#
+Erro Desconhecido#
 Does not have a pet summoned.#
 It is not requested petal.#
 Evolution material is low.#
@@ -2761,3 +2761,38 @@ Registro#
 %s [%d Propriedade] %d -> %s %s#
 %s [%d Propriedade] %s %s#
 A unidade de mínima de negociação deve ser de 100 biscoitos ou mais.#
+Hair color#
+Hair style#
+Cloth color#
+Cloth pattern#
+Unsupported Map.#
+Enter Zeny Below 2,147,483,647.#
+Please Enter atleast 1 zeny.#
+You do not hold any zeny.#
+Zeny Storage#
+in bank#
+on hand#
+Deposit#
+Withdraw#
+1 z UP#
+1 z Down#
+Max#
+There is no Input value#
+Not enough zeny#
+Input Required#
+Numbers only#
+Exceeded max input#
+Below Minimum Input#
+Not enough zeny#
+Insufficient funds#
+Exceeded max zeny#
+Drop X#
+Storage X#
+Cart X#
+Mail X#
+Trade X#
+Auction X#
+Guild Storage X#
+Sell to NPC X#
+Item moves restriction.#
+Please Create a Character!#
