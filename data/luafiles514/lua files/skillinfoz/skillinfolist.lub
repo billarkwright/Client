@@ -10037,7 +10037,7 @@ SKILL_INFO_LIST =
 	[SKID.WM_SOUND_OF_DESTRUCTION] = 
 	{
 		[[WM_SOUND_OF_DESTRUCTION]], 
-		SkillName = [[Prelúdio do Ragnarök]], 
+		SkillName = [[Prelúdio do Ragnarok]], 
 		MaxLv = 5, 
 		SpAmount = { 50, 60, 70, 80, 90, }, 
 		bSeperateLv = true, 
@@ -11202,7 +11202,7 @@ SKILL_INFO_LIST =
 	[SKID.BD_RAGNAROK] = 
 	{
 		[[BD_RAGNAROK]], 
-		SkillName = [[Ragnarök]], 
+		SkillName = [[Ragnarok]], 
 		MaxLv = 0, 
 		SpAmount = { }, 
 		bSeperateLv = false, 
@@ -13543,7 +13543,7 @@ SKILL_INFO_LIST =
 	[SKID.GC_DARKCROW] =
 	{
 		[[GC_DARKCROW]],
-		SkillName = [[Dark Claw]],
+		SkillName = [[Garra Sombria]],
 		MaxLv = 5,
 		SpAmount = { 22, 34, 46, 58, 70, },
 		bSeperateLv = true,
@@ -13556,7 +13556,7 @@ SKILL_INFO_LIST =
 	[SKID.RA_UNLIMIT] =
 	{
 		[[RA_UNLIMIT]],
-		SkillName = [[Unlimit]],
+		SkillName = [[Ilimitar]],
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180, },
 		bSeperateLv = true,
@@ -13569,7 +13569,7 @@ SKILL_INFO_LIST =
 	[SKID.LG_KINGS_GRACE] =
 	{
 		[[LG_KINGS_GRACE]],
-		SkillName = [[King's Grace]],
+		SkillName = [[Graça Real]],
 		MaxLv = 5,
 		SpAmount = { 200, 180, 160, 140, 120, },
 		bSeperateLv = false,
@@ -13582,7 +13582,7 @@ SKILL_INFO_LIST =
 	[SKID.RK_DRAGONBREATH_WATER] =
 	{
 		[[RK_DRAGONBREATH_WATER]],
-		SkillName = [[Dragon Breath Water]],
+		SkillName = [[Sopro de Gelo]],
 		MaxLv = 10,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, },
 		bSeperateLv = true,
@@ -13595,7 +13595,7 @@ SKILL_INFO_LIST =
 	[SKID.NC_MAGMA_ERUPTION] =
 	{
 		[[NC_MAGMA_ERUPTION]],
-		SkillName = [[Magma Eruption]],
+		SkillName = [[Erupção de Magma]],
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100, },
 		bSeperateLv = true,
@@ -13608,7 +13608,7 @@ SKILL_INFO_LIST =
 	[SKID.WM_FRIGG_SONG] =
 	{
 		[[WM_FRIGG_SONG]],
-		SkillName = [[Frigg's Song]],
+		SkillName = [[Canção de Frigga]],
 		MaxLv = 5,
 		SpAmount = { 200, 230, 260, 290, 320, },
 		bSeperateLv = true,
@@ -13621,7 +13621,7 @@ SKILL_INFO_LIST =
 	[SKID.SO_ELEMENTAL_SHIELD] =
 	{
 		[[SO_ELEMENTAL_SHIELD]],
-		SkillName = [[Elemental Shield]],
+		SkillName = [[Escudo Elemental]],
 		MaxLv = 5,
 		SpAmount = { 120, 120, 120, 120, 120, },
 		bSeperateLv = false,
@@ -13634,7 +13634,7 @@ SKILL_INFO_LIST =
 	[SKID.SR_FLASHCOMBO] =
 	{
 		[[SR_FLASHCOMBO]],
-		SkillName = [[Flash Combo]],
+		SkillName = [[Combo Rápido]],
 		MaxLv = 5,
 		SpAmount = { 65, 65, 65, 65, 65, },
 		bSeperateLv = true,
@@ -13650,7 +13650,7 @@ SKILL_INFO_LIST =
 	[SKID.SC_ESCAPE] =
 	{
 		[[SC_ESCAPE]],
-		SkillName = [[Escape]],
+		SkillName = [[Escapar]],
 		MaxLv = 5,
 		SpAmount = { 30, 26, 22, 18, 14, },
 		bSeperateLv = true,
@@ -13676,7 +13676,7 @@ SKILL_INFO_LIST =
 	[SKID.WL_TELEKINESIS_INTENSE] =
 	{
 		[[WL_TELEKINESIS_INTENSE]],
-		SkillName = [[Telekinesis Intense]],
+		SkillName = [[Telecinesia]],
 		MaxLv = 5,
 		SpAmount = { 100, 150, 200, 250, 300, },
 		bSeperateLv = true,
@@ -13689,7 +13689,7 @@ SKILL_INFO_LIST =
 	[SKID.ALL_FULL_THROTTLE] =
 	{
 		[[ALL_FULL_THROTTLE]],
-		SkillName = [[Full Throttle]],
+		SkillName = [[Maximizar Poder]],
 		MaxLv = 5,
 		SpAmount = { 1, 1, 1, 1, 1, },
 		bSeperateLv = true,
@@ -13700,7 +13700,7 @@ SKILL_INFO_LIST =
 	[SKID.GN_ILLUSIONDOPING] =
 	{
 		[[GN_ILLUSIONDOPING]],
-		SkillName = [[Illusion Doping]],
+		SkillName = [[Alucinógeno]],
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100, },
 		bSeperateLv = true,
