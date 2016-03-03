@@ -2123,7 +2123,7 @@ StateIconList[EFST_IDs.EFST_INVISIBILITY] =
 	posTimeLimitStr = 2,
 	descript = 
 	{
-		{"Forma Et?ea", COLOR_TITLE_BUFF },
+		{"Forma Eterea", COLOR_TITLE_BUFF },
 		{"%s", COLOR_TIME },
 		{"Permite atacar mesmo invisivel", },
 		{"ATQ muda para a propriedade Fantasma Nv.1", },
@@ -2183,7 +2183,7 @@ StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] =
 		{"Desejo das Sombras", COLOR_TITLE_BUFF },
 		{"%s", COLOR_TIME },
 		{"Ativa habilidades adquiridas via", },
-		{"Pl?io e Mimetismo", },
+		{"Plagio e Mimetismo", },
 	}
 }
 StateIconList[EFST_IDs.EFST_SHAPESHIFT] =
