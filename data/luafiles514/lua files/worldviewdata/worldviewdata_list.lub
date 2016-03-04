@@ -6,19 +6,19 @@ World_List = {
     "worldmap.bmp"
   },
   {
-    "Dimension",
+    "Dimens\227o",
     "worldtable_dimensions",
     "worldtable_dimensions_Dun",
     "worldmap_dimension.bmp"
   },
   {
-    "localizing 01",
+    "Localiza\231\227o 01",
     "worldtable_localizing1",
     "worldtable_localizing1_Dun",
     "worldmap_localizing1.bmp"
   },
   {
-    "localizing 02",
+    "Localiza\231\227o 02",
     "worldtable_localizing2",
     "worldtable_localizing2_Dun",
     "worldmap_localizing2.bmp"

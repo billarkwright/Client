@@ -11,3 +11,11 @@ Esse projeto segue a linha de tradução do usuário Michi, membro do fórum do emul
 
 http://herc.ws/board/topic/398-client-translation-project/
 
+HEXED
+**********
+
+Abaixo segue o link do repositório responsável por produzir o editor do executavél.
+
+N.E.M.O
+https://github.com/MStr3am/NEMO
+
