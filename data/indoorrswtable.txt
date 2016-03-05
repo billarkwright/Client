@@ -1,5 +1,8 @@
-// Other
-evt_coke.rsw#
+//?????????? ????? ??u 2015.05.26(?????? ???κ???)
+
+conch_in.rsw#
+lasa_in01.rsw#
+
 
 //Ep.16.1 prt_cas
 
@@ -8,18 +11,18 @@ prt_cas_q.rsw#
 1@sthc.rsw#
 prt_pri00.rsw#
 
-//사크라이 EP.15.2베루스  2013.12.11
+//??????? EP.15.2????  2013.12.11
 
 un_bunker.rsw#
 un_bk_q.rsw#
 un_myst.rsw#
+1@lab.rsw#
 
-
-//파라마켓 전용 맵
+//????? ???? ??
 
 paramk.rsw#
 
-//북미요청 복사맵 
+//????u ????? 
 
 prt_cas_evt.rsw#
 prt_in_evt.rsw#
@@ -29,17 +32,17 @@ air_evt.rsw#
 new_1-2_evt.rsw#
 
 
-//사크라이 12.08.27
+//??????? 12.08.27
 
 1@gef_in.rsw#
 
 
-//사크라이 12.3.6
+//??????? 12.3.6
 
 iz_ng01.rsw#
 
 
-//사크라이 11.11.07
+//??????? 11.11.07
 ecl_in01.rsw#
 ecl_in02.rsw#
 ecl_in03.rsw#
@@ -50,7 +53,7 @@ ecl_tdun04.rsw#
 
 
 
-//사크라이 11.09.26
+//??????? 11.09.26
 
 ma_in01.rsw#
 ma_zif01.rsw#
@@ -64,7 +67,7 @@ ma_zif08.rsw#
 ma_zif09.rsw#
 
 
-//사크라이R 11.11.24
+//???????R 11.11.24
 mal_in01.rsw#
 mal_in02.rsw#
 que_house_s.rsw#
@@ -85,7 +88,7 @@ mosk_in.rsw#
 que_ba.rsw#
 itemmall.rsw#
 
-//------------------------------------------2007년 4월 30일 이전의 데이터----------------------------------------------------------
+//------------------------------------------2007?? 4?? 30?? ?????? ??????----------------------------------------------------------
 
 alberta_in.rsw#
 izlude_in.rsw#
@@ -159,3 +162,6 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+
+// Other
+evt_coke.rsw#

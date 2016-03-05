@@ -1,3 +1,46 @@
+// Other
+evt_coke.gnd#evt_coke.gnd#
+evt_coke.gat#evt_coke.gat#
+evt_coke.rsw#evt_coke.rsw#
+유저인터페이스\map\1@sthb.bmp#유저인터페이스\map\evt_coke.bmp#
+
+//pvp미니맵오류관련
+유저인터페이스\map\pvp_y_1-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_2-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_3-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_4-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_5-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_6-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_7-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_8-5.bmp#유저인터페이스\map\morocc.bmp#
+
+//2015 EPISODE_16.1 메모리얼 던전
+1@sthb.gnd#1@sthb.gnd#
+1@sthb.gat#1@sthb.gat#
+1@sthb.rsw#1@sthb.rsw#
+유저인터페이스\map\1@sthb.bmp#유저인터페이스\map\1@sthb.bmp#
+
+1@sthc.gnd#1@sthc.gnd#
+1@sthc.gat#1@sthc.gat#
+1@sthc.rsw#1@sthc.rsw#
+유저인터페이스\map\1@sthc.bmp#유저인터페이스\map\1@sthc.bmp#
+
+1@sthd.gnd#1@sthd.gnd#
+1@sthd.gat#1@sthd.gat#
+1@sthd.rsw#1@sthd.rsw#
+유저인터페이스\map\1@sthd.bmp#유저인터페이스\map\1@sthd.bmp#
+
+1@mir.gnd#1@mir.gnd#
+1@mir.gat#1@mir.gat#
+1@mir.rsw#1@mir.rsw#
+유저인터페이스\map\1@mir.bmp#유저인터페이스\map\1@mir.bmp#
+
+2@mir.gnd#2@mir.gnd#
+2@mir.gat#2@mir.gat#
+2@mir.rsw#2@mir.rsw#
+유저인터페이스\map\2@mir.bmp#유저인터페이스\map\2@mir.bmp#
+
+
 //2014 클랜퀘스트 
 1@ffp.gnd#1@ffp.gnd#
 1@ffp.gat#1@ffp.gat#
@@ -148,13 +191,14 @@ guild_vs01.gat#guild_vs01.gat#
 guild_vs01.rsw#guild_vs01.rsw#
 
 
-//EP.15 
+//EP.15.1
 1@mcd.gnd#1@mcd.gnd#
 1@mcd.gat#1@mcd.gat#
 1@mcd.rsw#1@mcd.rsw#
 유저인터페이스\map\1@mcd.bmp#유저인터페이스\map\1@mcd.bmp#
 
-//옛글래스트헤임 메모리얼 맵복사
+//옛글래스트헤임 메모리얼 맵복사 
+
 1@gl_kh.gnd#1@gl_k.gnd#
 1@gl_kh.gat#1@gl_k.gat#
 1@gl_kh.rsw#1@gl_k.rsw#
@@ -173,40 +217,40 @@ prt_evt.gat#prontera.gat#
 prt_evt.rsw#prontera.rsw#
 유저인터페이스\map\prt_evt.bmp#유저인터페이스\map\prontera.bmp#
 
-prt_cas_evt.gnd#prt_castle.gnd#
-prt_cas_evt.gat#prt_castle.gat#
-prt_cas_evt.rsw#prt_castle.rsw#
-유저인터페이스\map\prt_cas_evt.bmp#유저인터페이스\map\prt_castle.bmp#
+prt_castle_evt.gnd#prt_castle.gnd#
+prt_castle_evt.gat#prt_castle.gat#
+prt_castle_evt.rsw#prt_castle.rsw#
+유저인터페이스\map\prt_castle_evt.bmp#유저인터페이스\map\prt_castle.bmp#
 
 prt_in_evt.gnd#prt_in.gnd#
 prt_in_evt.gat#prt_in.gat#
 prt_in_evt.rsw#prt_in.rsw#
 유저인터페이스\map\prt_in_evt.bmp#유저인터페이스\map\prt_in.bmp#
 
-prt_ch_evt.gnd#prt_church.gnd#
-prt_ch_evt.gat#prt_church.gat#
-prt_ch_evt.rsw#prt_church.rsw#
-유저인터페이스\map\prt_ch_evt.bmp#유저인터페이스\map\prt_church.bmp#
+prt_church_evt.gnd#prt_church.gnd#
+prt_church_evt.gat#prt_church.gat#
+prt_church_evt.rsw#prt_church.rsw#
+유저인터페이스\map\prt_church_evt.bmp#유저인터페이스\map\prt_church.bmp#
 
-lhz_cu_evt.gnd#lhz_cube.gnd#
-lhz_cu_evt.gat#lhz_cube.gat#
-lhz_cu_evt.rsw#lhz_cube.rsw#
-유저인터페이스\map\lhz_cu_evt.bmp#유저인터페이스\map\lhz_cube.bmp#
+lhz_cube_evt.gnd#lhz_cube.gnd#
+lhz_cube_evt.gat#lhz_cube.gat#
+lhz_cube_evt.rsw#lhz_cube.rsw#
+유저인터페이스\map\lhz_cube_evt.bmp#유저인터페이스\map\lhz_cube.bmp#
 
-pay_d00_evt.gnd#pay_dun00.gnd#
-pay_d00_evt.gat#pay_dun00.gat#
-pay_d00_evt.rsw#pay_dun00.rsw#
-유저인터페이스\map\pay_d00_evt.bmp#유저인터페이스\map\pay_dun00.bmp#
+pay_dun00_evt.gnd#pay_dun00.gnd#
+pay_dun00_evt.gat#pay_dun00.gat#
+pay_dun00_evt.rsw#pay_dun00.rsw#
+유저인터페이스\map\pay_dun00_evt.bmp#유저인터페이스\map\pay_dun00.bmp#
 
-iz_d03_evt.gnd#iz_dun03.gnd#
-iz_d03_evt.gat#iz_dun03.gat#
-iz_d03_evt.rsw#iz_dun03.rsw#
-유저인터페이스\map\iz_d03_evt.bmp#유저인터페이스\map\iz_dun03.bmp#
+iz_dun03_evt.gnd#iz_dun03.gnd#
+iz_dun03_evt.gat#iz_dun03.gat#
+iz_dun03_evt.rsw#iz_dun03.rsw#
+유저인터페이스\map\iz_dun03_evt.bmp#유저인터페이스\map\iz_dun03.bmp#
 
-gl_ch_evt.gnd#gl_church.gnd#
-gl_ch_evt.gat#gl_church.gat#
-gl_ch_evt.rsw#gl_church.rsw#
-유저인터페이스\map\gl_ch_evt.bmp#유저인터페이스\map\gl_church.bmp#
+gl_church_evt.gnd#gl_church.gnd#
+gl_church_evt.gat#gl_church.gat#
+gl_church_evt.rsw#gl_church.rsw#
+유저인터페이스\map\gl_church_evt.bmp#유저인터페이스\map\gl_church.bmp#
 
 new_1-1_evt.gnd#new_1-1.gnd#
 new_1-1_evt.gat#new_1-1.gat#
@@ -218,10 +262,10 @@ new_1-2_evt.gat#new_1-2.gat#
 new_1-2_evt.rsw#new_1-2.rsw#
 유저인터페이스\map\new_1-2_evt.bmp#유저인터페이스\map\new_1-2.bmp#
 
-air_evt.gnd#airplane.gnd#
-air_evt.gat#airplane.gat#
-air_evt.rsw#airplane.rsw#
-유저인터페이스\map\air_evt.bmp#유저인터페이스\map\airplane.bmp#
+airplane_evt.gnd#airplane.gnd#
+airplane_evt.gat#airplane.gat#
+airplane_evt.rsw#airplane.rsw#
+유저인터페이스\map\airplane_evt.bmp#유저인터페이스\map\airplane.bmp#
 
 
 //이벤트맵(휴겔복사)
@@ -769,7 +813,7 @@ job3_war02.rsw#job3_war01.rsw#
 2@nyd.gnd#2@nyd.gnd#
 2@nyd.gat#2@nyd.gat#
 2@nyd.rsw#2@nyd.rsw#
-유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\1@nyd.bmp#
+유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\2@nyd.bmp#
 
 bat_c02.gnd#bat_c01.gnd#
 bat_c02.gat#bat_c01.gat#
@@ -1111,14 +1155,7 @@ pvp_y_5-4.gat#alberta.gat#
 pvp_y_6-4.gat#alberta.gat#
 pvp_y_7-4.gat#alberta.gat#
 pvp_y_8-4.gat#alberta.gat#
-pvp_y_1-5.gat#morocc.gat#
-pvp_y_2-5.gat#morocc.gat#
-pvp_y_3-5.gat#morocc.gat#
-pvp_y_4-5.gat#morocc.gat#
-pvp_y_5-5.gat#morocc.gat#
-pvp_y_6-5.gat#morocc.gat#
-pvp_y_7-5.gat#morocc.gat#
-pvp_y_8-5.gat#morocc.gat#
+
 pvp_y_1-1.gnd#prontera.gnd#
 pvp_y_2-1.gnd#prontera.gnd#
 pvp_y_3-1.gnd#prontera.gnd#
@@ -1428,14 +1465,7 @@ nguild_gef.gnd#gefg_cas01.gnd#
 유저인터페이스\map\pvp_y_6-4.bmp#유저인터페이스\map\alberta.bmp#
 유저인터페이스\map\pvp_y_7-4.bmp#유저인터페이스\map\alberta.bmp#
 유저인터페이스\map\pvp_y_8-4.bmp#유저인터페이스\map\alberta.bmp#
-유저인터페이스\map\pvp_y_1-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_2-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_3-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_4-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_5-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_6-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_7-5.bmp#유저인터페이스\map\morocc.bmp#
-유저인터페이스\map\pvp_y_8-5.bmp#유저인터페이스\map\morocc.bmp#
+
 유저인터페이스\map\new_1-1.bmp#유저인터페이스\map\new_zone01.bmp#
 유저인터페이스\map\new_2-1.bmp#유저인터페이스\map\new_zone01.bmp#
 유저인터페이스\map\new_3-1.bmp#유저인터페이스\map\new_zone01.bmp#

@@ -235,7 +235,7 @@ Habilidade falhou porque você não tem Zeny suficiente.#
 Selecione um alvo.#
 /pk Ligado: Liga Luta com Jogadores.  /pk Desligado: Desliga Luta com Jogadores.#
 Loja#
-Itens do carrinho [Alt] + [W]#
+Itens do carrinho [Alt+W]#
 Informações básicas#
 Você não pode utilizar esta habilidade com esta arma.#
 Compra de %s Falhou. Em falta. Estoque atual %d.#
@@ -2556,7 +2556,7 @@ Gatling Gun should be equipped with bullets.#
 Shotguns devem ser equipadas com balas.#
 Rifle deve ser equipado com balas.#
 Par de Revólveres deve ser equipado com balas.#
-¼º¼Ó¼º ºí¸´À» ÀåÂøÇØ¾ß ÇÕ´Ï´Ù#
+[Bala de Prata] classe de arma deve estar equipado.#
 Histórico de venda do item#
 Histórico de compra do item#
 Lançado de Granadas deve ser equipado com balas.#
@@ -2650,9 +2650,9 @@ Achieve rank#
 The following compensation box until [% 5d] point#
 Progresso#
 Conquistas Recentes#
-à¹ø¯  Item#
-à¹ø¯  : %d / %d #
-à¹ø¯  is low.#
+Cracker  Item#
+Cracker  : %d / %d #
+Cracker  is low.#
 %s#
 Overview#
 Geral#
@@ -2796,3 +2796,26 @@ Guild Storage X#
 Sell to NPC X#
 Item moves restriction.#
 Please Create a Character!#
+#
+You cannot enter Memorial Dungeon with excess members#
+Memorial Dungeon Access was denied due to exceeding number of players#
+%.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
+%.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
+Consuming Item denied due to multiple same item.#
+Consuming Item denied due to effect of same consumed item.#
+Flicker Effect ON#
+Flicker Effect OFF#
+Illegal Programs has been detected#
+Send Mail#
+E X P : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+DROP  : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+DEATH : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+Name with this tag cannot be used.#
+Style Shop#
+No serial number, Please visit the store to buy.#
+Please turn on Serial item number window box.#
+Bank#
+Slot is full, please delete a character.#
+Item cannot be restored, are you sure want to apply it?#
+Registered as the following style.#
+There are plenty of golds in the bank, Please go to the bank now.#

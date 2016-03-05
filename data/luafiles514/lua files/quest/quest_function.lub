@@ -171,8 +171,8 @@ function queryQuestID(tableName , questID)
 		returnTable[questID].Item,
 		returnTable[questID].PrizeItem,
 		returnTable[questID].Title,
-		returnTable[questID].QuickInfo,
 		returnTable[questID].Info,
+		returnTable[questID].QuickInfo,
 		returnTable[questID].Hunt1,
 		returnTable[questID].Hunt2,
 		returnTable[questID].Hunt3,
@@ -180,15 +180,15 @@ function queryQuestID(tableName , questID)
 		returnTable[questID].Lv
 end
 
--- 항목 퀘스트 파일이 추가 될때마다 이곳에 추가 시켜 준다. 
+-- ??? ????? ?????? ??? ??????? ????? ??? ???? ???. 
 makeLocalQuestList(LOCAL_MalayaQuest_List)
 makeLocalQuestList(LOCAL_DewataQuest_List)
 makeEPQuestList(EP_141Quest_List)
 
 
--- 개별 퀘스트 파일이 추가 될때마다 이곳에 추가 시켜준다.
+-- ???? ????? ?????? ??? ??????? ????? ??? ???????.
 QuestTable.malayaQuest = malayaQuest_List
 QuestTable.epsoid141Quest = epsoid141Quest_List
 QuestTable.DewataQuest = DewataQuest_List
 
--- 끝
+-- ??
