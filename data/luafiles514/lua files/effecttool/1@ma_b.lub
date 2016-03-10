@@ -1,19 +1,19 @@
 _1ma_b_emitterInfo = {
   [0] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -24.8,
@@ -31,30 +31,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [1] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -198.6,
@@ -72,30 +72,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [2] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       99.9,
@@ -113,30 +113,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [3] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -125.6,
@@ -154,30 +154,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [4] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -38.6,
@@ -195,30 +195,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [5] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       115.9,
@@ -236,30 +236,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [6] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       134.9,
@@ -277,30 +277,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [7] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       166,
@@ -318,30 +318,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [8] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -254.4,
@@ -359,30 +359,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [9] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       4.2,
@@ -400,30 +400,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [10] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -261.3,
@@ -441,30 +441,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [11] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       112.6,
@@ -482,30 +482,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [12] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       117.1,
@@ -523,30 +523,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [13] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       62.1,
@@ -564,30 +564,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [14] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       203.5,
@@ -605,30 +605,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [15] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       193.9,
@@ -646,30 +646,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [16] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       228.6,
@@ -687,30 +687,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [17] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       272.7,
@@ -728,30 +728,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [18] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -239.7,
@@ -769,30 +769,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [19] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -148.7,
@@ -810,30 +810,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [20] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -207.3,
@@ -851,30 +851,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [21] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -81,
@@ -892,30 +892,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [22] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -193.2,
@@ -933,30 +933,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [23] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -200,
@@ -974,30 +974,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [24] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -93.7,
@@ -1015,30 +1015,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [25] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       53.8,
@@ -1056,30 +1056,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [26] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -174.5,
@@ -1097,30 +1097,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [27] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -127.6,
@@ -1138,30 +1138,30 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   },
   [28] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      -2,
+      2,
+      -2
     },
     dir2 = {
-      5,
-      0,
-      5
+      2,
+      -1,
+      2
     },
     gravity = {
       0.7,
       -2,
-      0.7
+      1
     },
     pos = {
       -162,
@@ -1179,13 +1179,13 @@ _1ma_b_emitterInfo = {
       50,
       40
     },
-    rate = {3, 5},
-    size = {6, 8},
-    life = {4, 5},
+    rate = {20, 100},
+    size = {3, 8},
+    life = {5, 10},
     texture = "smoke2.bmp",
     speed = {1},
     srcmode = {5},
     destmode = {2},
-    maxcount = {20}
+    maxcount = {40}
   }
 }

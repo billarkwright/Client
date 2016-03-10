@@ -1,5 +1,5 @@
 DewataQuest_List = {
--- ????? ?????? ???? ??????? ????? --
+-- 데와타 노인을 도와 음료만들기 퀘스트 --
 		[5035] = { 
 				NPCFromName = [[Memo]],
 				NPCFromMap = [[dewata]],
@@ -374,7 +374,7 @@ DewataQuest_List = {
 				Time = [[0]],
 				LV = [[0]],
 			},
--- ????? ???????? ????? --
+-- 데와타 무기제작 퀘스트 --
 		[5052] = { 
 				NPCFromName = [[Gatti]],
 				NPCFromMap = [[dew_fild01]],
@@ -441,7 +441,7 @@ DewataQuest_List = {
 				Time = [[0]],
 				LV = [[0]],
 			},
--- ????? ???? ????? --
+-- 데와타 전설 퀘스트 --
 		[9155] = { 
 				NPCFromName = [[Tribal Chief Paiko]],
 				NPCFromMap = [[dew_in01]],
